@@ -1,0 +1,4 @@
+tmp.txt
+*.log
+tmp/*
+node_modules
