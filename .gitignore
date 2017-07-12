@@ -1,4 +1,4 @@
-tmp.txt
-*.log
-tmp/*
+.babelrc
+gulpfile.js
+package.json
 node_modules
